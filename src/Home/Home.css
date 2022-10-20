@@ -1,0 +1,13 @@
+.banner{
+    background-image: url(https://api-cdn.arte.tv/img/v2/image/DrCGSC5FQRuk2yb86xBnBK/1920x1080);
+
+ 
+    padding: 25% 20% 40% 20%;
+    background-repeat: no-repeat;
+}
+.text{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
